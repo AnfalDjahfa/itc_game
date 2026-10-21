@@ -1,16 +1,34 @@
-# itc_game
+# 🎮 ITC Game
 
-A new Flutter project.
+A fun and interactive mobile application developed for **IT Community (ITC Club)** at university, specially designed for the Welcome Day event.
 
-## Getting Started
+## ✨ About the Project
 
-This project is a starting point for a Flutter application.
+ITC Game is a mobile app created to make the Welcome Day experience more engaging and enjoyable for students. It combines useful club information with interactive features and a fun game.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App preveiw
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[▶️ Watch ITC Game Demo](https://youtube.com/shorts/GSlwAXtV0lI?feature=share)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- 💬 **Messages:** An interactive space for messages.
+- 📢 **Announcements:** A dedicated section for club announcements.
+- 🎮 **Interactive Game:** A fun gaming experience for students.
+- 🎨 **User-Friendly UI:** A modern and engaging interface.
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
+## 🎯 Purpose
+
+The goal of this project is to bring students together, encourage interaction, and make discovering IT Community more fun through technology.
+
+## 👩‍💻 Developer
+
+Developed by **Anfel Djahfa** as a project for IT Community's Welcome Day.
+
+---
+
