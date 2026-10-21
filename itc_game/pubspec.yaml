@@ -1,0 +1,31 @@
+name: itc_game
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.4.7
+  flutter_lints: ^6.0.0
+
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#272727"
+  image: "assets/images/lightmode.png"
+  image_dark: "assets/images/darkedmode.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
